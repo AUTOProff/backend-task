@@ -1,6 +1,6 @@
 ## Requirements
 * Use .Net Core 3.1 or 5.0
-* The assignment has to be in a git repository
+* The assignment has to be in a GitHub repository
 * The frontend framework doesn't matter. Use what your comfortable with, but we use Vue2.
 
 ## User stories
