@@ -1,5 +1,6 @@
 ## Requirements
 * Use .Net Core 3.1 or 5.0
+* Use MySQL
 * The assignment has to be in a GitHub repository
 * The frontend framework doesn't matter. Use what your comfortable with, but we use Vue2.
 
